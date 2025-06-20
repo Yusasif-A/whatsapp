@@ -1,0 +1,9 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "agents.base.graph:build_agent"
+  },
+  "http": {
+    "app": "langgraph_whatsapp.server:APP"
+  }
+}
